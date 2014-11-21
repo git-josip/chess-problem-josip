@@ -1,4 +1,11 @@
-Chess Problem - Josip
+Chess Problem - Josip (Scala)
 ===================
 
-Chess Problem solved in Scala
+Clone project from GitHUb and just execute ``` sbt run``` to get results.
+
+Solution Example:
+xx
+
+
+
+
