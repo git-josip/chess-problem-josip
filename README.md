@@ -1,4 +1,4 @@
-Chess Problem - Josip (Scala)
+Chess Problem - (Scala)
 ===================
 
 Clone project from GitHub and just execute ``` sbt run``` to get results. Solution Example:
